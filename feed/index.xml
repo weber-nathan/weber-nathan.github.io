@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Nathan WEBER</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="https://site-cv-2.local/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
 	<lastBuildDate>Wed, 11 May 2022 23:43:42 +0000</lastBuildDate>
