@@ -1,2 +1,2 @@
 # Bienvenue sur mon site CV
-weber-nathan.github.io/
+weber-nathan.github.io
