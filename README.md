@@ -1,2 +1,2 @@
-# Welcome on my resume website
+# Feel free to check my portfolio
 **[weber-nathan.github.io](https://weber-nathan.github.io "Nathan WEBER")**
